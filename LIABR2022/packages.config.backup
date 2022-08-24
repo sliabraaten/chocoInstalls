@@ -12,7 +12,6 @@
   <package id="chocolatey-windowsupdate.extension" />
   <package id="dotnet-6.0-desktopruntime" />
   <package id="dotnet-desktopruntime" />
-  <package id="DotNet4.0" />
   <package id="DotNet4.5.2" />
   <package id="github-desktop" />
   <package id="greenshot" />
@@ -32,7 +31,6 @@
   <package id="procmon" />
   <package id="putty" />
   <package id="putty.portable" />
-  <package id="robomirror" />
   <package id="rufus" />
   <package id="sublimetext3" />
   <package id="synergy" />
