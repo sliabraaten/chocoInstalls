@@ -46,6 +46,8 @@
   <package id="vscode" />
   <package id="vscode.install" />
   <package id="wakemeonlan" />
+  <package id="winaero-tweaker" />
+  <package id="winaero-tweaker.install" />
   <package id="windirstat" />
   <package id="wireshark" />
 </packages>
