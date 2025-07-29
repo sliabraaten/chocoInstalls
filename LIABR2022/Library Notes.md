@@ -1,6 +1,16 @@
 # Library Notes
 
- 
+## Choco Exports
+
+``````
+choco export
+```
+
+Stored Here: C:\ProgramData\chocolatey\config
+
+This export is able to be output to different location, however window and choco need permissions.
+
+
 
 ## Missing From Choco Libs
 
@@ -22,8 +32,6 @@
   
   - v20 Exists in SLDownloads
 
-
-
 ## Config Files
 
 - Aquasnap
@@ -42,16 +50,10 @@
   
   - Direct export from application, import found in application
 
-
-
 ## To Research?
 
 - TidyTabs - Nurgo Software
 
-
-
 ## Removed
 
 - Synergy - Replaced in workflow by MouseWithoutBorders
-
-
