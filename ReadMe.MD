@@ -1,3 +1,6 @@
+Navigate to proper location in powershell, run choco export
+Done
+
 Choco Export Examples
     choco export
     choco export --include-version-numbers
